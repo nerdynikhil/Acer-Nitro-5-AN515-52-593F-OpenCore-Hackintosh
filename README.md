@@ -5,7 +5,7 @@ Intel Optane replaced with WD Blue™ SN550 NVMe™ SSD
 macOS Big Sur.
 
 No issues whatsoever.
-<img src="https://github.com/nerdynikhil/Acer-Nitro-5-AN515-52-593F-OpenCore-Hackintosh/blob/main/Screenshot%2021-05-12%at%1.02.01%PM.png" alt="About This Mac screenshot">
+<img src="https://github.com/nerdynikhil/Acer-Nitro-5-AN515-52-593F-OpenCore-Hackintosh/blob/main/Big%20Sur%2011.3.1/Screenshot%202021-05-12%20at%201.02.01%20PM.png" alt="About This Mac screenshot">
 ## Configuration
 
 | Specifications | Detail                                                  |
@@ -19,3 +19,5 @@ No issues whatsoever.
 | Sound Card          | Realtek ALC255                             |
 | Wireless Card       | Intel(R) Wireless-AC 9560 160MHz    |
 | Touchpad            | I2C HID based                              |
+
+PS. If you want to reuse my EFIs, PLEASE don't forget to change the serial nos in config.plist.
