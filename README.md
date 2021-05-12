@@ -2,10 +2,10 @@
 
 Intel Optane replaced with WD Blue™ SN550 NVMe™ SSD
 
-macOS Catalina.
+macOS Big Sur.
 
 No issues whatsoever.
-<img src="https://github.com/nerdynikhil/Acer-Nitro-5-AN515-52-593F-OpenCore-Hackintosh/blob/main/Screenshot%202021-02-05%20at%204.45.17%20AM.png" alt="About This Mac screnshote">
+<img src="https://github.com/nerdynikhil/Acer-Nitro-5-AN515-52-593F-OpenCore-Hackintosh/blob/main/Screenshot%2021-05-12%at%1.02.01%PM.png" alt="About This Mac screenshot">
 ## Configuration
 
 | Specifications | Detail                                                  |
